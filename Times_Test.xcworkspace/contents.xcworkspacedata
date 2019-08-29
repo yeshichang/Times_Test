@@ -2,6 +2,12 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:OC-Test/OC-Test.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:LodingButtonExtension/LodingButtonExtension.xcodeproj">
+   </FileRef>
+   <FileRef
       location = "group:CommentDemo/CommentDemo.xcodeproj">
    </FileRef>
    <FileRef
